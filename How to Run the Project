@@ -1,0 +1,11 @@
+Step 1: Clone Repository
+git clone https://github.com/your-tamil-selvi/Customer-Purchase-Prediction-and-AI-Recommendation-System.git
+
+Step 2: Install Dependencies
+pip install pandas scikit-learn streamlit joblib
+
+Step 3: Train the Model
+python train_model.py
+
+Step 4: Run Streamlit Application
+streamlit run app.py
