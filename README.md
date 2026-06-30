@@ -360,7 +360,7 @@ It serves as a beginner-friendly AIML project showcasing the complete machine le
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **M.Tamil Selvi**
 
